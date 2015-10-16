@@ -52,7 +52,7 @@
     <header-file src="src/ios/QBImagePicker/QBAssetsViewController.h" />
     <source-file src="src/ios/QBImagePicker/QBAssetsViewController.m" />
 
-    <resource-file src="src/ios/QBImagePicker/en.lproj/QBImagePicker.strings" />
+    <resource-file src="src/ios/QBImagePicker/zh-Hans.lproj/QBImagePicker.strings" />
     <resource-file src="src/ios/QBImagePicker/QBImagePicker.storyboard" />
 
     <framework src="QuartzCore.framework" />
@@ -101,7 +101,7 @@
     <source-file src="src/android/Library/res/layout/actionbar_discard_button.xml" target-dir="res/layout"/>
     <source-file src="src/android/Library/res/layout/actionbar_done_button.xml" target-dir="res/layout"/>
     <source-file src="src/android/Library/res/layout/multiselectorgrid.xml" target-dir="res/layout"/>
-    <source-file src="src/android/Library/res/values/multiimagechooser_strings_en.xml" target-dir="res/values"/>
+    <source-file src="src/android/Library/res/values-zh/multiimagechooser_strings_zh.xml" target-dir="res/values"/>
     <source-file src="src/android/Library/res/values/themes.xml" target-dir="res/values"/>
 
     <!--
